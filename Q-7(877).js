@@ -3,4 +3,4 @@ var argumentsLength = function (...args) {
 };
 
 
-argumentsLength([1, 2]);
+argumentsLength([1, 2])
